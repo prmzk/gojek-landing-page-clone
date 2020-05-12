@@ -10,4 +10,4 @@ Finally, open the folder and type 'npm start' on the terminal. Then you can run 
 <br>
 
 You can find the preview of the app with screenshots below: <br>
-<img src="./screenshots/IMG_0261.png" width="200">
+<img src="https://raw.githubusercontent.com/prmzk/gojek-landing-page-clone/master/screenshots/IMG_0261.PNG" width="200">
